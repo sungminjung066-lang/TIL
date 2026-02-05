@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=f8a4a4&text=Today%20I%20Learned&reversal=false&textBg=false&fontColor=ffffff&animation=blink"/>
+
 # Today I Learned(TIL)
 
 - 부트캠프를 통해 스스로 배운 것들을 작성하는 공간입니다
